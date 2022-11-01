@@ -1,3 +1,7 @@
+# Gym.destroy_all
+# Client.destroy_all
+# Membership.destroy_all
+
 la = Gym.create(name: "L.A. Fitness", address: "Suite 981 1795 Leida Fords, Nataliemouth, TN 14377-4979")
 planet = Gym.create(name: "Planet Fitness", address: "7768 David Avenue, Greenside, PA 67475-3655")
 
